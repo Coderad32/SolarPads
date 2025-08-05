@@ -47,7 +47,7 @@
 ## 📬 Contact Us
 
 Interested in partnering, investing, or learning more?  
-Reach out to our team at **contact@solarpadsmars.io**
+Reach out to our team at **x.com/coderad32**
 
 ---
 
