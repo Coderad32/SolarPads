@@ -6,7 +6,7 @@ We aim to revolutionize clean energy mobility and digital asset preservation thr
 
 To mine in a specialized way for VM smart contracts and dapps.
 
-- Ammount supply
+- Amount supply
 - Tokenomics
 - Distribution methods
 - Free Tokens
